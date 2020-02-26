@@ -1,0 +1,10 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.greeting {
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
